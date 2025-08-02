@@ -91,13 +91,13 @@ Follow these steps in your terminal to bring your "HomeMatch-AI" agent to life!
 
 ## 📁 Project Structure
 
-├── .git/
-├── generate_listings.py
-├── homematch.py
-├── listings.json
-├── requirements.txt
-├── vector_db_setup.py
-└── README.md
+    ├── .git/
+    ├── generate_listings.py
+    ├── homematch.py
+    ├── listings.json
+    ├── requirements.txt
+    ├── vector_db_setup.py
+    └── README.md
 ---
 
 ## 🔮 Future Enhancements
